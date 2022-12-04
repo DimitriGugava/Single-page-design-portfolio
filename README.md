@@ -1,6 +1,3 @@
-# Frontend Mentor - Single-page design portfolio solution
-
-This is a solution to the [Single-page design portfolio challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/singlepage-design-portfolio-2MMhyhfKVo). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## The challenge
 
@@ -16,7 +13,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Single Page Design Portfolio](https://testerium-single-page-design-portfolio.netlify.app/)
+- Live Site URL: [Single Page Design Portfolio](https://single-page-design-rosy.vercel.app/)
 
 ## My process
 
@@ -27,10 +24,7 @@ The project took me about 8 hours to complete. It is responsive - desktop, table
 - HTML
 - CSS 
 - SCSS
-- Grid
 - Flexbox
-- JavaScript
+- ReactJS
 
-## Author
 
-- Frontend Mentor - [@testerium](https://www.frontendmentor.io/profile/testerium)
